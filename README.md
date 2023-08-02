@@ -1,1 +1,1 @@
-# DakeDAO-frontend
+# DakeDAO (frontend)
